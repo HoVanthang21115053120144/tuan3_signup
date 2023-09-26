@@ -101,5 +101,14 @@
             android:layout_height="48dp"
             android:layout_margin="20dp"
             android:src="@drawable/ic_ig"/>
+
     </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hồ Văn Thắng"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:drawableLeft="@drawable/baseline_person_2_24"
+        android:layout_alignParentRight="true"/>
 </RelativeLayout>
